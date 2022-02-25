@@ -2,6 +2,66 @@
 body {
     margin :0;
     padding: 0;    
+
+    background-color: antiquewhite;
 }
+
+
+
+.smsbody, .heading {
+
+    
+
+    width: 95%;
+    height: 140px;
+
+    /* border: solid 1px gray; */
+
+     margin: auto;
+
+}
+
+.smsbody {
+
+    border-top: 1px solid lightslategray;
+    border-right: 1px solid lightslategray;
+    border-left: 1px solid lightslategray;
+    border-bottom: 1px solid lightslategray;
+
+
+    height: 640px;
+}
+
+
+.heading {
+
+    
+    border-top: 1px solid lightslategray;
+    border-right: 1px solid lightslategray;
+    border-left: 1px solid lightslategray;
+
+    padding: 3px 0 ;
+
+}
+
+
+
+
+
+
+.smsnav {
+    width: 40px;
+    height: 100%;
+}
+
+
+
+.logo {
+
+    padding: 60px;
+
+}
+
+
 
 

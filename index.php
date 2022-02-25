@@ -11,6 +11,21 @@
 
 <body>
 
+    <div class="heading">
+        <span class="logo">Logo</span>
+    </div>
+
+    <div class="smsbody">
+
+        <div class="smsnav">
+            menu here
+        </div>
+
+
+
+    </div>
+
+
 </body>
 
 </html>
