@@ -12,12 +12,21 @@
 <body>
 
     <div class="heading">
-        <span class="logo">Logo</span>
+        <ul id="nav-menu">
+            <li><a href="#home">Logo</a></li>
+            <li style="float:right"><a href="#news">News</a></li>
+            <li style="float:right"><a href="#contact">Contact</a></li>
+            <li style="float:right" class="move-right"><a class="active" href="#about">About</a></li>
+        </ul>
+
+
+
+
     </div>
 
-    <div class="smsbody">
+    <div class="detail-body">
 
-        <div class="smsnav">
+        <div class="sms-nav">
             menu here
         </div>
 
