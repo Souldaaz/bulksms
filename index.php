@@ -12,7 +12,7 @@
 <body>
 
     <div class="heading">
-        <ul id="nav-menu">
+        <ul id="top-menu">
             <li><a href="#home">Logo</a></li>
             <li style="float:right"><a href="#news">News</a></li>
             <li style="float:right"><a href="#contact">Contact</a></li>
@@ -26,8 +26,14 @@
 
     <div class="detail-body">
 
-        <div class="sms-nav">
+        <div class="left-nav">
             menu here
+
+            sd
+        </div>
+
+        <div class="content">
+            content
         </div>
 
 
